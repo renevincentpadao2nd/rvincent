@@ -26,7 +26,7 @@ body {
   justify-content: center;
   align-items: center;
   background-size: cover;
-  background-image: url(./assets/img/backgroundimg.jpg);
+  background-image: url(../assets/img/backgroundimg.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   font-family: 'Oswald', sans-serif;
